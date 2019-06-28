@@ -1,3 +1,11 @@
 {
-  "KafkaProducer": [{"data" :{"type" : "text","text": "your message"}}]
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
