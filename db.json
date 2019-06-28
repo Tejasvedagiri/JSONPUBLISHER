@@ -1,8 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "KafkaProducer": [
+    {"data" :{"type" : "text","text": "your message"}}
   ]
 }
