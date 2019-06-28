@@ -1,5 +1,4 @@
 {
-  "KafkaProducer": [
+  "KafkaProducer": 
     {"data" :{"type" : "text","text": "your message"}}
-  ]
 }
