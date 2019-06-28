@@ -1,5 +1,5 @@
 {
   "KafkaProducer": [
-    {"type" : "text","text": "Processing your request"}
+    {"data" :{"type" : "text","text": "your message"}}
   ]
 }
