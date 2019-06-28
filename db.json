@@ -1,5 +1,6 @@
 {
   "KafkaProducer": [
+    {"data" :{"type" : "text","text": "your message"}},
     {"data" :{"type" : "text","text": "your message"}}
   ],
   "tejas" : [1,2,3,4]
