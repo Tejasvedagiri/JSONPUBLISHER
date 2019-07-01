@@ -1,3 +1,4 @@
 {
   "KafkaProducer": {"data" :{"type" : "text","text": "Processing Your Request"}}
+  "tejas": [1,2,3,4]
 }
